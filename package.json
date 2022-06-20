@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/JCPedroza/simple-live-poll-pug.git"
   },
-  "keywords": ["js", "pug", "poll"],
+  "keywords": [
+    "js",
+    "pug",
+    "poll"
+  ],
   "author": "JCPedroza",
   "license": "MIT",
   "bugs": {
@@ -21,7 +25,8 @@
     "express": "4.18.1",
     "mongoose": "6.4.0",
     "morgan": "1.10.0",
-    "pug": "3.0.2"
+    "pug": "3.0.2",
+    "socket.io": "4.5.1"
   },
   "devDependencies": {
     "cloc": "2.9.0",
